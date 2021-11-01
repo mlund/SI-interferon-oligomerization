@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mlund/template-for-supporting-information/HEAD)
 
-# template-for-supporting-information
+# Supporting Information: Electrostatics Drive Oligomerization and Aggregation of Human Interferon Alpha-2a
 
 Template for Notebooks for Supporting Information and Zenodo Deposition.
 
