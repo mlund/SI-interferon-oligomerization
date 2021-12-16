@@ -2,8 +2,7 @@
 
 # Supporting Information: Electrostatics Drive Oligomerization and Aggregation of Human Interferon Alpha-2a
 
-This repository supports the scientific paper published in Journal of Physical Chemistry B, [doi](https://dx.doi.org/10.1021/acs.jpcb.1c07090).
-Template for Notebooks for Supporting Information and Zenodo Deposition.
+This repository supports the scientific paper published in Journal of Physical Chemistry B: [doi:10.1021/acs.jpcb.1c07090](https://dx.doi.org/10.1021/acs.jpcb.1c07090).
 
 ## Layout
 
