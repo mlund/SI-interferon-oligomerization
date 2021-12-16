@@ -18,17 +18,21 @@
     ],
     "keywords": [
         "reproducible science",
-        "electronic notebooks"
+        "electronic notebooks",
+        "protein-protein interactions",
+        "molecular simulation",
+        "monte carlo sampling",
+        "biophysical chemistry"
     ],
     "related_identifiers": [
         {
             "scheme": "url",
-            "identifier": "https://github.com/mlund/template-for-supporting-information",
+            "identifier": "https://github.com/mlund/SI-interferon-oligomerization",
             "relation": "isSupplementTo"
         },
         {
             "scheme": "doi",
-            "identifier": "10.1021/jacs.1c01925",
+            "identifier": "10.1021/acs.jpcb.1c07090.",
             "relation": "isSupplementTo"
         }
     ],
