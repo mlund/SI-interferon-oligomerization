@@ -1,7 +1,8 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mlund/template-for-supporting-information/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mlund/SI-interferon-oligomerization/HEAD)
 
 # Supporting Information: Electrostatics Drive Oligomerization and Aggregation of Human Interferon Alpha-2a
 
+This repository supports the scientific paper published in Journal of Physical Chemistry B, [doi](https://dx.doi.org/10.1021/acs.jpcb.1c07090).
 Template for Notebooks for Supporting Information and Zenodo Deposition.
 
 ## Layout
