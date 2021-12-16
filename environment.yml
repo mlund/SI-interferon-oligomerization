@@ -1,11 +1,11 @@
-name: my_environment
+name: interferon
 channels:
     - defaults
 dependencies:
     - python=3
-    - pandas=1
-    - scipy=1
-    - matplotlib=3
-    - numpy=1
+    - pandas=1.2
+    - scipy=1.6
+    - matplotlib=3.3
+    - numpy=1.19
     - jupyter
     - notebook
